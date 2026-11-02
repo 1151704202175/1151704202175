@@ -17,6 +17,7 @@
 - Computer Programming
 
 ### 🏆 Certifications & Instructor Credentials
+
 | Vendor | Credentials |
 |--------|-------------|
 | **Cisco** | CCAI (Cisco Certified Academy Instructor) |
@@ -31,18 +32,26 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weerachaiy&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weerachaiy&theme=highcontrast&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weerachaiy&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weerachaiy&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 🏅 Coding Platforms
 
-![Codewars](https://www.codewars.com/users/weerachaiy/badges/large)
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/weerachai.y.png)
+<p align="center">
+  <img src="https://www.codewars.com/users/weerachaiy/badges/large" alt="Codewars" />
+  <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/weerachai.y.png" alt="TryHackMe" />
+</p>
 
 ---
 
 ### 📞 Contact
+
 | Channel | Detail |
 |---------|--------|
 | **Office** | 0-2549-3466 |
