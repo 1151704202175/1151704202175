@@ -1,47 +1,58 @@
-BookBot is my first project!
-### About
-- Mr.Weerachai Yaemvachi (อ.วีระชัย แย้มวจี)
+# 👋 Hi, I'm อ.วีระชัย แย้มวจี (Weerachai Yaemvachi)
 
-### ประวัติการศึกษา
-- วศ.บ. (วิศวกรรมคอมพิวเตอร์) สถาบันเทคโนโลยีราชมงคล, วศ.ม. (วิศวกรรมไฟฟ้า-วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม) มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี
+**อาจารย์ประจำ** ภาควิชาวิศวกรรมคอมพิวเตอร์  
+คณะวิศวกรรมศาสตร์ มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี (RMUTT)
 
-### วิชาที่สอน
--  Computer Network Laboratory, TCP/IP Networks, Computer Engineering Project
+---
 
-### Contact
-- Office: 02-549-3466, Fax: 02-549-3462, Mobile: 084-098-8030, E-mail: weerachai.y(AT)rmutt.ac.th, Website: http://www.en.rmutt.ac.th/weerachai.y
+### 🎓 ประวัติการศึกษา
+- **วศ.บ.** (วิศวกรรมคอมพิวเตอร์) — สถาบันเทคโนโลยีราชมงคล
+- **วศ.ม.** (วิศวกรรมไฟฟ้า-วิศวกรรมอิเล็กทรอนิกส์และโทรคมนาคม) — มหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี
 
-### Hi there 👋
+### 📚 วิชาที่สอน
+- Computer Network Laboratory
+- TCP/IP Networks
+- Computer Engineering Project
+- Computer Security
+- Computer Programming
 
-<!--
-**weerachaiy/weerachaiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Certifications & Instructor Credentials
+| Vendor | Credentials |
+|--------|-------------|
+| **Cisco** | CCAI (Cisco Certified Academy Instructor) |
+| **Huawei** | HCAI + HCIP-R&S ×10 (R&S, Datacom, WLAN, Security, Storage, 5G, AI, IoT, Cloud Computing, Cloud Service) |
+| **Juniper** | JNCIA ×4 (JunOS, Security, Cloud, DevOps) |
+| **Alibaba Cloud** | ACP ×2 (Cloud Security, DevOps) + ACA ×5 + ACS Innovative Computing |
+| **Microsoft** | Azure ×3 (Fundamentals, Data Fundamentals, AI Fundamentals) + MTA ×2 |
 
-Here are some ideas to get you started:
+🔗 [ดู Badge ทั้งหมดบน Credly](https://www.credly.com/users/weerachai-yaemvachi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- Cisco Certified Academy Instructor (CCAI)
-- Huawei Certified Academy Instructor (HCAI)
-- Huawei: HCIP-R&S HCIAx10 (R&S, Datacom, WLAN, Security, Storage, 5G, AI, IoT, Cloud Computing, Cloud Service)
-- Juniper Networks: JNCIAx4 (JunOS, Security, Cloud, DevOps)
-- Alibaba Cloud: ACPx2 (Cloud Security, DevOps Engineer)
-- Alibaba Cloud: ACAx5 (Cloud Computing, Cloud Security, Cloud Native, Big Data, System Operator)
-- Alibaba Cloud: ACS Innovative Computing
-- Microsoft: AZUREx3 (Azure Fundamentals, Azure Data Fundamentals, Azure AI Fundamentals)
-- Microsoft: MTAx2 Certified: (Networking Fundamentals, Introduction to Programming Using JavaScript)
-- https://www.credly.com/users/weerachai-yaemvachi
+---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=weerachaiy&theme=highcontrast&show_icons=true&count_private=true)
+### 📊 GitHub Stats
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=weerachaiy&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weerachaiy&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weerachaiy&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🏅 Coding Platforms
 
 ![Codewars](https://www.codewars.com/users/weerachaiy/badges/large)
-
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/weerachai.y.png)
+
+---
+
+### 📞 Contact
+| Channel | Detail |
+|---------|--------|
+| **Office** | 0-2549-3466 |
+| **Fax** | 0-2549-3462 |
+| **Mobile** | 084-098-8030 |
+| **Email** | weerachai.y@rmutt.ac.th |
+| **Website** | [en.rmutt.ac.th/weerachai.y](http://www.en.rmutt.ac.th/weerachai.y) |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=weerachaiy&style=flat-square&color=blue" alt="Profile views"/>
+</p>
