@@ -48,7 +48,7 @@
 | **Office** | 0-2549-3466 |
 | **Fax** | 0-2549-3462 |
 | **Mobile** | 084-098-8030 |
-| **Email** | weerachai.y@rmutt.ac.th |
+| **Email** | weerachai@rmutt.ac.th |
 | **Website** | [en.rmutt.ac.th/weerachai.y](http://www.en.rmutt.ac.th/weerachai.y) |
 
 ---
