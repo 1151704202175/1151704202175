@@ -54,8 +54,8 @@
 
 | Channel | Detail |
 |---------|--------|
-| **Office** | 0-2549-3466 |
-| **Fax** | 0-2549-3462 |
+| **Office** | 02-549-3466 |
+| **Fax** | 02-549-3462 |
 | **Mobile** | 084-098-8030 |
 | **Email** | weerachai@rmutt.ac.th |
 | **Website** | https://page2me.hashnode.dev/ |
